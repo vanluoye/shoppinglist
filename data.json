@@ -1,0 +1,315 @@
+[
+    {
+        "type": "厨具",
+        "items": [
+            {
+                "name": "平底锅",
+                "description": ""
+            },
+            {
+                "name": "锅",
+                "description": ""
+            },
+            {
+                "name": "一套盘子",
+                "description": ""
+            },
+            {
+                "name": "刀具",
+                "description": ""
+            },
+            {
+                "name": "餐具",
+                "description": "叉子、刀子、筷子"
+            },
+            {
+                "name": "杯子",
+                "description": ""
+            },
+            {
+                "name": "厨房用具",
+                "description": "开罐器、量杯、搅拌碗和其他必备工具。"
+            },
+            {
+                "name": "厨房纸",
+                "description": ""
+            },
+            {
+                "name": "平底锅",
+                "description": ""
+            },
+            {
+                "name": "抹布",
+                "description": ""
+            },
+            {
+                "name": "百洁布",
+                "description": ""
+            },
+            {
+                "name": "手套（食品级）",
+                "description": ""
+            },
+            {
+                "name": "手套（非食品级）",
+                "description": ""
+            },
+            {
+                "name": "水杯",
+                "description": "玻璃"
+            },
+            {
+                "name": "餐巾纸/抽纸",
+                "description": ""
+            },
+            {
+                "name": "剪刀",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "type": "床上用品和床单",
+        "items": [
+            {
+                "name": "床单套装",
+                "description": "一张床单+一个/两个枕套"
+            },
+            {
+                "name": "床罩",
+                "description": ""
+            },
+            {
+                "name": "毯子",
+                "description": "羊毛或棉花"
+            },
+            {
+                "name": "枕头",
+                "description": ""
+            },
+            {
+                "name": "擦手巾",
+                "description": ""
+            },
+            {
+                "name": "淋浴毛巾",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "type": "收纳盒",
+        "items": [
+            {
+                "name": "塑料容器",
+                "description": "用于小物件，如玩具、大米、零食"
+            },
+            {
+                "name": "衣服容器",
+                "description": ""
+            },
+            {
+                "name": "大纸箱",
+                "description": "用于存放季节性物品"
+            },
+            {
+                "name": "盒子",
+                "description": "搬家箱子"
+            }
+        ]   
+    },
+    {
+        "type": "厨具",
+        "items": [
+            {
+                "name": "拖把",
+                "description": ""
+            },
+            {
+                "name": "扫帚",
+                "description": ""
+            },
+            {
+                "name": "吸尘器",
+                "description": "品牌选择: Dyson、Tineco"
+            },
+            {
+                "name": "洗涤剂",
+                "description": ""
+            },
+            {
+                "name": "衣物柔顺剂",
+                "description": ""
+            },
+            {
+                "name": "洗衣篮",
+                "description": ""
+            },
+            {
+                "name": "洗手液",
+                "description": ""
+            },
+            {
+                "name": "洗碗剂",
+                "description": ""
+            },
+            {
+                "name": "洗碗机洗涤剂",
+                "description": ""
+            },
+            {
+                "name": "垃圾桶",
+                "description": "室内的"
+            },
+            {
+                "name": "垃圾桶",
+                "description": "户外的"
+            },
+            {
+                "name": "回收箱",
+                "description": "纸+容器"
+            },
+            {
+                "name": "衣架",
+                "description": ""
+            },
+            {
+                "name": "拖鞋",
+                "description": ""
+            },
+            {
+                "name": "电源板",
+                "description": ""
+            }
+            
+        ]
+    },
+    {
+        "type": "电子产品",
+        "items": [
+            {
+                "name": "电饭锅",
+                "description": ""
+            },
+            {
+                "name": "烧水壶",
+                "description": ""
+            },
+            {
+                "name": "吹风机",
+                "description": ""
+            }
+            
+        ]   
+    },
+    {
+        "type": "个人物品",
+        "items": [
+            {
+                "name": "牙刷",
+                "description": ""
+            },
+            {
+                "name": "牙膏",
+                "description": ""
+            },
+            {
+                "name": "洗发水",
+                "description": ""
+            },
+            {
+                "name": "肥皂",
+                "description": ""
+            },
+            {
+                "name": "护发素",
+                "description": ""
+            },
+            {
+                "name": "沐浴露",
+                "description": ""
+            },
+            {
+                "name": "纸巾",
+                "description": ""
+            },
+            {
+                "name": "餐巾",
+                "description": ""
+            },
+            {
+                "name": "卫生纸",
+                "description": ""
+            },
+            {
+                "name": "马桶清洁剂，刷子",
+                "description": ""
+            },
+            {
+                "name": "拖鞋",
+                "description": ""
+            },
+            {
+                "name": "隐形眼镜护理液",
+                "description": ""
+            },
+            {
+                "name": "瓶装水",
+                "description": ""
+            }
+        ]
+    
+    },
+    {
+        "type": "女生用品",
+        "items": [
+            {
+                "name": "卫生巾",
+                "description": ""
+            },
+            {
+                "name": "发圈/头绳",
+                "description": ""
+            }
+            
+        ]
+    
+    },
+    {
+        "type": "男士用品",
+        "items": [
+            {
+                "name": "刮胡刀",
+                "description": ""
+            }
+            
+        ]
+        
+    },
+    {
+        "type": "儿童用品",
+        "items": [
+            {
+                "name": "尿布",
+                "description": ""
+            },
+            {
+                "name": "配方奶",
+                "description": ""
+            },
+            {
+                "name": "牛奶粉",
+                "description": ""
+            },
+            {
+                "name": "湿擦拭器",
+                "description": ""
+            },
+            {
+                "name": "奶瓶",
+                "description": ""
+            }
+            
+        ]
+    }
+]
